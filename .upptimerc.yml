@@ -14,7 +14,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.spotifiuby.com.ar
   # baseUrl: /services-status
-  logoUrl: https://spot
+  logoUrl: https://spotifiuby.com.ar/assets/img/logos/logo_inverted.png
   name: Spotifiuby
   theme: night
   introTitle: "Status page for **Spotifiuby** microservices"
