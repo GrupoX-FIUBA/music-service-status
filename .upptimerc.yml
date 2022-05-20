@@ -10,6 +10,10 @@ sites:
     url: https://spotifiuby-users-service.herokuapp.com/docs
     assignees:
       - RiedelNicolas
+  - name: Feedback Service
+    url: https://grupox-feedback-service.herokuapp.com/docs
+    assigness:
+      - ManuelBilbao
   - name: Mobile API Gateway
     url: https://api-gateway-mobile.herokuapp.com/docs
     assignees:
