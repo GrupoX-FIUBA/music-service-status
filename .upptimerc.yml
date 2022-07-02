@@ -37,7 +37,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  js: "document.querySelectorAll('nav li')[1].children[0].setAttribute('target', '_blank')"
+  js: "document.addEventListener('DOMContentLoaded', () => document.querySelectorAll('nav li')[1].children[0].setAttribute('target', '_blank'), false);"
 
 workflowSchedule:
   uptime: "0 */3 * * *"
