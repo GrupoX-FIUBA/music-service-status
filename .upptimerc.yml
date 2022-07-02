@@ -35,9 +35,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-  js: "document.addEventListener('DOMContentLoaded', () => document.querySelectorAll('nav li')[1].children[0].setAttribute('target', '_blank'), false);"
 
 workflowSchedule:
   uptime: "0 */3 * * *"
