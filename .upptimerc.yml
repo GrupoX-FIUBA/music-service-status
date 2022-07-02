@@ -14,6 +14,10 @@ sites:
     url: https://grupox-feedback-service.herokuapp.com/docs
     assigness:
       - ManuelBilbao
+  - name: Payments Service
+    url: https://spotifiuby-payments-service.herokuapp.com/docs/
+    assignees:
+      - ezezbogar
   - name: Mobile API Gateway
     url: https://api-gateway-mobile.herokuapp.com/docs
     assignees:
@@ -33,6 +37,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  js: "document.querySelectorAll('nav li')[1].children[0].setAttribute('target', '_blank')"
 
 workflowSchedule:
   uptime: "0 */3 * * *"
