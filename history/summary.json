@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "music-service",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.69%",
     "time": 4782,
     "timeDay": 2307,
     "timeWeek": 3712,
     "timeMonth": 4882,
     "timeYear": 4782,
     "dailyMinutesDown": {
-      "2022-07-10": 10,
       "2022-05-12": 87,
       "2022-05-11": 177
     }
@@ -27,19 +26,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "users-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 14938,
     "timeDay": 10585,
     "timeWeek": 12588,
     "timeMonth": 14544,
     "timeYear": 14938,
-    "dailyMinutesDown": {
-      "2022-07-10": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Feedback Service",
@@ -47,19 +44,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "feedback-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 5607,
     "timeDay": 3290,
     "timeWeek": 4150,
     "timeMonth": 5438,
     "timeYear": 5607,
-    "dailyMinutesDown": {
-      "2022-07-10": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Payments Service",
@@ -67,19 +62,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "payments-service",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2397,
     "timeDay": 5638,
     "timeWeek": 3029,
     "timeMonth": 2397,
     "timeYear": 2397,
-    "dailyMinutesDown": {
-      "2022-07-10": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Gateway",
