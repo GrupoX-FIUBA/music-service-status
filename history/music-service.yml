@@ -1,7 +1,7 @@
-url: https://grupox-music-service.herokuapp.com/docs
-status: up
-code: 200
-responseTime: 6407
-lastUpdated: 2022-07-09T23:08:16.089Z
+url: $MUSIC_SERVICE_URL/docs
+status: down
+code: 404
+responseTime: 293
+lastUpdated: 2022-07-10T19:55:57.857Z
 startTime: Wed May 11 2022 21:02:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
