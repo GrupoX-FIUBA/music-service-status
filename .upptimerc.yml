@@ -3,23 +3,23 @@ repo: services-status # The name of this repository
 
 sites:
   - name: Music Service
-    url: https://grupox-music-service.herokuapp.com/docs
+    url: $MUSIC_SERVICE_URL/docs
     assignees:
       - ManuelBilbao
   - name: Users Service
-    url: https://spotifiuby-users-service.herokuapp.com/docs
+    url: $USERS_SERVICE_URL/docs
     assignees:
       - RiedelNicolas
   - name: Feedback Service
-    url: https://grupox-feedback-service.herokuapp.com/docs
+    url: $FEEDBACK_SERVICE_URL/docs
     assigness:
       - ManuelBilbao
   - name: Payments Service
-    url: https://spotifiuby-payments-service.herokuapp.com/docs/
+    url: $PAYMENTS_SERVICE_URL/docs/
     assignees:
       - ezezbogar
-  - name: Mobile API Gateway
-    url: https://api-gateway-mobile.herokuapp.com/docs
+  - name: API Gateway
+    url: $API_GATEWAY_URL/docs
     assignees:
       - ezezbogar
 
