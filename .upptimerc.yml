@@ -36,7 +36,5 @@ status-website:
     - title: Status
       href: /
 
-workflowSchedule:
-  uptime: "0 */3 * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
