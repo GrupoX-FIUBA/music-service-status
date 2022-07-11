@@ -79,19 +79,19 @@
     "url": "$API_GATEWAY_URLdocs",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-gateway",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3250,
-    "timeDay": 3250,
-    "timeWeek": 3250,
-    "timeMonth": 3250,
-    "timeYear": 3250,
+    "status": "up",
+    "uptime": "98.26%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "98.26%",
+    "time": 2756,
+    "timeDay": 2756,
+    "timeWeek": 2756,
+    "timeMonth": 2756,
+    "timeYear": 2756,
     "dailyMinutesDown": {
-      "2022-07-11": 0
+      "2022-07-11": 21
     }
   }
 ]
