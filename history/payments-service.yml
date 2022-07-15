@@ -1,7 +1,7 @@
 url: $PAYMENTS_SERVICE_URLdocs
-status: down
-code: 404
-responseTime: 133
-lastUpdated: 2022-07-15T21:11:13.894Z
+status: up
+code: 200
+responseTime: 430
+lastUpdated: 2022-07-15T21:29:00.172Z
 startTime: Sat Jul 02 2022 17:54:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
